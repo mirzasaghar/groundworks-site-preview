@@ -3,10 +3,10 @@
    lines and dimension marks, the ground in section as the one decorative motif, and the orange
    from the company's own logo. Real measurements from real jobs are set in mono, as data. */
 :root {
-  --paper: #f3f1ec; --paper-2: #ebe7df; --card: #fbfaf7;
-  --ink: #16181b; --ink-2: #4a4f55; --ink-3: #6c7177;
-  --line: #d8d3c9; --line-2: #c4beb2;
-  --orange: #ff6123; --orange-deep: #c9430f; --orange-ink: #1a0e07;
+  --paper: #eef0f0; --paper-2: #e3e6e6; --card: #ffffff;
+  --ink: #16181b; --ink-2: #454a50; --ink-3: #5c6167;
+  --line: #d5d9da; --line-2: #bcc1c3;
+  --orange: #ff6123; --orange-deep: #b03a0b; --orange-ink: #1a0e07;
   --slate: #1c2024; --slate-2: #262b30; --slate-ink: #ecebe7; --slate-ink-2: #a9aeb3;
   --soil: #5b4636; --clay: #a67c52; --gravel: #8d8a83; --concrete: #c9c5bc;
   --display: "Big Shoulders Display", "Arial Narrow", sans-serif;
